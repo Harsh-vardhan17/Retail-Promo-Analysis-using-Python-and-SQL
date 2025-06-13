@@ -55,3 +55,22 @@ LIMIT 10;
 - Prophet by Meta for forecasting
 
 - Streamlit for rapid dashboarding
+---
+## 🎯 Future Works
+### Live BigQuery Integration
+Replace static CSV uploads with real-time querying directly from Google BigQuery for dynamic, up-to-date analysis.
+
+### Incorporate External Datasets
+Enrich analysis with additional data like regional demographics, localized weather, and holiday calendars to uncover deeper patterns.
+
+### Advanced Forecasting Models
+Experiment with ARIMA, LSTM, or NeuralProphet to compare and improve forecasting accuracy beyond Prophet’s baseline.
+
+### Interactive Dashboard Features
+Add filters for state/store/category, KPI summary panels, and custom date range selectors for a more dynamic user experience.
+
+### Promo Impact Prediction (ML)
+Train a regression or classification model to predict whether promotional weeks will increase sales and by how much.
+
+### Backend & Database Integration
+Add a backend (e.g., Flask/FastAPI) and connect to cloud storage like Firebase or AWS S3 to store and retrieve data programmatically.
