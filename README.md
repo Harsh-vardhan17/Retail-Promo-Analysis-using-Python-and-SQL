@@ -33,3 +33,12 @@
 | `Walmart_Sales.csv`        | Weekly sales dataset                        |
 | `walmart_store_locaction.csv` | Store location info                        |
 | `requirements.txt`         | App dependencies                            |
+
+---
+## 📊 Sample SQL Query (BigQuery)
+```sql
+SELECT Store, SUM(Weekly_Sales) AS Total_Sales
+FROM `retail-1-462621.walmart_data_1.walmart_sales`
+GROUP BY Store
+ORDER BY Total_Sales DESC
+LIMIT 10;
