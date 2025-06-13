@@ -21,3 +21,15 @@
 | **Plotly**      | Interactive charts & maps           |
 | **Pandas**      | Data manipulation                   |
 | **Streamlit**   | Web app for visualization           |
+
+---
+## 📁 File Overview
+
+| File/Folder                 | Description                                 |
+|----------------------------|---------------------------------------------|
+| `Retail_Promo_Analysis_PRESENTABLE.ipynb` | Final EDA + SQL query notebook         |
+| `app.py`                   | Streamlit dashboard app                     |
+| `queries.sql`              | BigQuery SQL queries used                   |
+| `Walmart_Sales.csv`        | Weekly sales dataset                        |
+| `walmart_store_locaction.csv` | Store location info                        |
+| `requirements.txt`         | App dependencies                            |
