@@ -44,8 +44,11 @@ ORDER BY Total_Sales DESC
 LIMIT 10;
 ```
 ---
+## 📊 Sample Streamlit Dashboard
 <img width="1710" alt="Screenshot 2025-06-13 at 11 21 12 AM" src="https://github.com/user-attachments/assets/d47332ae-d69d-4a68-90a5-cacba1207ebf" />
+
 ---
+
 ## 🤝 Acknowledgements
 - Walmart Sales Dataset (public domain)
 
