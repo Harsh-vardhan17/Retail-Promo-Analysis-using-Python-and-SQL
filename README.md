@@ -42,3 +42,13 @@ FROM `retail-1-462621.walmart_data_1.walmart_sales`
 GROUP BY Store
 ORDER BY Total_Sales DESC
 LIMIT 10;
+```
+---
+<img width="1710" alt="Screenshot 2025-06-13 at 11 21 12 AM" src="https://github.com/user-attachments/assets/d47332ae-d69d-4a68-90a5-cacba1207ebf" />
+---
+## 🤝 Acknowledgements
+- Walmart Sales Dataset (public domain)
+
+- Prophet by Meta for forecasting
+
+- Streamlit for rapid dashboarding
